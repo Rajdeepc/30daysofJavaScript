@@ -11,7 +11,7 @@ P.S: i will be adding 2-3 topics everyday whenever i get time.<br> Watch this sp
 
 ## Toics covered: 
 
-### 1. Promises
+### 1. [Promises](https://jsfiddle.net/rajrock38/fd65wvz7/)
 ### 2. Closure
 ### 3. call Back funtions
 ### 4. OOPS design factory, constructor pattern
