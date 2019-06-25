@@ -12,7 +12,7 @@ P.S: i will be adding 2-3 topics everyday whenever i get time.<br> Watch this sp
 ## Toics covered: 
 
 ### 1. Promises [See Live](https://JavaScriptfiddle.net/rajrock38/fd65wvz7/)
-### 2. Closure [See Live] (https://jsfiddle.net/rajrock38/zfxom78p/)
+### 2. Closure [See Live](https://jsfiddle.net/rajrock38/zfxom78p/)
 ### 3. Callback functions
 ### 4. OOPS design factory, constructor pattern
 ### 5. Use of call,apply and bind
