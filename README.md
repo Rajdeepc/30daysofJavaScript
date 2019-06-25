@@ -1,4 +1,13 @@
-# 30 DaysOfJavaScript
+# 30 DaysofJavaScript
+
+This tutorials is for those who wants to refresh their JS knowledge or a newbie to JS or someone coming from a different programming language.<br>
+I have tried my best to keep the concepts as clear as possible and have jsfiddle links with everyone so that you can play around with every topics.<br>
+I will be posting medium links for each one in detail so that people can understand more thoroughly.<br>
+Code snippets for use are in respecetive folders.<br>
+
+Feel free to add or get in touch with me for clarifications.<br>
+
+P.S: i will be adding 2-3 topics everyday whenever i get time.<br> Watch this space for updates. JS fiddle link will be made available once i complete one topic.
 
 ## Toics covered: 
 
