@@ -1,48 +1,48 @@
-#30 DaysOfJavaScript
+# 30 DaysOfJavaScript
 
-##Toics covered: 
+## Toics covered: 
 
-### Promises
-### Closure
-### call Back funtions
-### OOPS design factory, constructor pattern
-### call,apply,bind
-### prototypal inheritance
-### closure in loop, inner function setTimeOut
-### web workers, multithreading
-### ES6 fat arrow
-### Method Chaining
-### Event Bubbling and capturing
-### constructors
-### this keyword
-### currying function
-### immediately invoked
-### async await
-### hoisting in JS
-### spread operators and rest operators
-### Javascript generators
-### Recursion in JS
-### Javascript iterators
-### Prototype
-### Obj.create method
-### JS decorators - class and property descriptors
-### JS tagged template strings
-### setTimeOut and setInterval
-### passbyValue and passbyReference
-### Prototype Chain
-### JS modules ES6
-### Mixins in JS
-### Obj.assign
-### Static methods
-### WebAssemby
-### Obj.setPrototypeOf
-### Regular Expr
-### Extending function constructors
-### JS extend class es6
-### Type Conversions in JS
-### JS default Params
-### JS array methods
-### Array.from mthod
-### JS sets and weaksets
-### JS array with negative index
+### 1. Promises
+### 2. Closure
+### 3. call Back funtions
+### 4. OOPS design factory, constructor pattern
+### 5. call,apply,bind
+### 6. prototypal inheritance
+### 7. closure in loop, inner function setTimeOut
+### 8. web workers, multithreading
+### 9. ES6 fat arrow
+### 10. Method Chaining
+### 11. Event Bubbling and capturing
+### 12. constructors
+### 13. this keyword
+### 14. currying function
+### 15. immediately invoked
+### 16. async await
+### 17. hoisting in JS
+### 18. spread operators and rest operators
+### 19. Javascript generators
+### 20. Recursion in JS
+### 21. Javascript iterators
+### 22. Prototype
+### 23. Obj.create method
+### 24. JS decorators - class and property descriptors
+### 25. JS tagged template strings
+### 26. setTimeOut and setInterval
+### 27. passbyValue and passbyReference
+### 28. Prototype Chain
+### 29. JS modules ES6
+### 30. Mixins in JS
+### 31. Obj.assign
+### 32. Static methods
+### 33. WebAssemby
+### 34. Obj.setPrototypeOf
+### 35. Regular Expr
+### 36. Extending function constructors
+### 37. JS extend class es6
+### 38. Type Conversions in JS
+### 39. JS default Params
+### 40. JS array methods
+### 41. Array.from mthod
+### 42. JS sets and weaksets
+### 43. JS array with negative index
 
