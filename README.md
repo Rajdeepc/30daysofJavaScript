@@ -15,7 +15,7 @@ P.S: i will be adding 2-3 topics everyday whenever i get time.<br> Watch this sp
 ### 2. Closure [See Live](https://jsfiddle.net/rajrock38/zfxom78p/)
 ### 3. Callback functions
 ### 4. OOPS design factory, constructor pattern
-### 5. Use of call,apply and bind
+### 5. Use of call,apply and bind [See Live](https://jsfiddle.net/rajrock38/kuf1tdw9/20/)
 ### 6. prototypal inheritance
 ### 7. closure in loop, inner function setTimeOut
 ### 8. web workers, multithreading
