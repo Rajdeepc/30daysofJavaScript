@@ -2,8 +2,8 @@
 
 This tutorials is for those who wants to refresh their JavaScript knowledge or a newbie to JavaScript or someone coming from a different programming language.<br>
 I have tried my best to keep the concepts as clear as possible and have JavaScriptfiddle links with everyone so that you can play around with every topics.<br>
-I will be posting medium links for each one in detail so that people can understand more thoroughly.<br>
-Code snippets for use are in respecetive folders.<br>
+Medium links for each one in detail so that people can understand more thoroughly.<br>
+Code snippets for use are in respective folders.<br>
 
 Feel free to add or get in touch with me for clarifications.<br>
 
@@ -17,7 +17,7 @@ P.S: i will be adding 2-3 topics everyday whenever i get time.<br> Watch this sp
 ### 4. OOPS design factory, constructor pattern
 ### 5. Use of call,apply and bind [See Live](https://jsfiddle.net/rajrock38/kuf1tdw9/20/)
 ### 6. prototypal inheritance
-### 7. closure in loop, inner function setTimeOut
+### 7. closure in loop, inner function setTimeOut [See Live](https://jsfiddle.net/rajrock38/zfxom78p/)
 ### 8. web workers, multithreading
 ### 9. ES6 fat arrow
 ### 10. Method Chaining
