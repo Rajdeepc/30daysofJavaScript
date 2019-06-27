@@ -9,6 +9,9 @@ Feel free to add or get in touch with me for clarifications.<br>
 
 P.S: i will be adding 2-3 topics everyday whenever i get time.<br> Watch this space for updates. JavaScript fiddle link will be made available once i complete one topic.
 
+## Medium Blog Link:
+
+
 ## Toics covered: 
 
 ### 1. Promises [See Live](https://JavaScriptfiddle.net/rajrock38/fd65wvz7/)
