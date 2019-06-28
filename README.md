@@ -14,19 +14,19 @@ P.S: i will be adding 2-3 topics everyday whenever i get time.<br> Watch this sp
 
 ## Toics covered: 
 
-### 1. Promises [See Live](https://jsfiddle.net/rajrock38/fd65wvz7/)
-### 2. Closure [See Live](https://jsfiddle.net/rajrock38/zfxom78p/)
-### 3. Callback functions [See Live](https://jsfiddle.net/rajrock38/5qrba2nc/22/)
+### 1. Promises [Example](https://jsfiddle.net/rajrock38/fd65wvz7/)
+### 2. Closure [Example](https://jsfiddle.net/rajrock38/zfxom78p/)
+### 3. Callback functions [Example](https://jsfiddle.net/rajrock38/5qrba2nc/22/)
 ### 4. OOPS design factory, constructor pattern
-### 5. Use of call,apply and bind [See Live](https://jsfiddle.net/rajrock38/kuf1tdw9/20/)
-### 6. prototypal inheritance [See Live](https://jsfiddle.net/rajrock38/0tuf1pad/)
-### 7. closure in loop, inner function setTimeOut [See Live](https://jsfiddle.net/rajrock38/zfxom78p/)
+### 5. Use of call,apply and bind [Example](https://jsfiddle.net/rajrock38/kuf1tdw9/20/)
+### 6. prototypal inheritance [Example](https://jsfiddle.net/rajrock38/0tuf1pad/)
+### 7. closure in loop, inner function setTimeOut [Example](https://jsfiddle.net/rajrock38/zfxom78p/)
 ### 8. web workers, multithreading
-### 9. ES6 fat arrow [See Live](https://jsfiddle.net/rajrock38/9atne0o7/)
-### 10. Method Chaining [See Live](https://jsfiddle.net/rajrock38/j7tva2qy/)
+### 9. ES6 fat arrow [Example](https://jsfiddle.net/rajrock38/9atne0o7/)
+### 10. Method Chaining [Example](https://jsfiddle.net/rajrock38/j7tva2qy/)
 ### 11. Event Bubbling and capturing
-### 12. Constructors [See Live](https://jsfiddle.net/rajrock38/dwL2yt15/)
-### 13. this keyword [See Live](https://jsfiddle.net/rajrock38/z80mjksL/)
+### 12. Constructors [Example](https://jsfiddle.net/rajrock38/dwL2yt15/)
+### 13. this keyword [Example](https://jsfiddle.net/rajrock38/z80mjksL/)
 ### 14. currying function
 ### 15. immediately invoked
 ### 16. async await
