@@ -25,8 +25,8 @@ P.S: i will be adding 2-3 topics everyday whenever i get time.<br> Watch this sp
 ### 9. ES6 fat arrow [See Live](https://jsfiddle.net/rajrock38/9atne0o7/)
 ### 10. Method Chaining [See Live](https://jsfiddle.net/rajrock38/j7tva2qy/)
 ### 11. Event Bubbling and capturing
-### 12. constructors
-### 13. this keyword
+### 12. Constructors [See Live](https://jsfiddle.net/rajrock38/dwL2yt15/)
+### 13. this keyword [See Live](https://jsfiddle.net/rajrock38/z80mjksL/)
 ### 14. currying function
 ### 15. immediately invoked
 ### 16. async await
