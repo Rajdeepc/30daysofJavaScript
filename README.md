@@ -30,7 +30,7 @@ P.S: i will be adding 2-3 topics everyday whenever i get time.<br> Watch this sp
 ### 14. currying function
 ### 15. immediately invoked [Example](https://jsfiddle.net/rajrock38/b73tgpsz/)
 ### 16. async await
-### 17. hoisting in JavaScript
+### 17. hoisting in JavaScript [Example](https://jsfiddle.net/rajrock38/418bsqdy/)
 ### 18. spread operators and rest operators
 ### 19. JavaScript generators
 ### 20. Recursion in JavaScript
